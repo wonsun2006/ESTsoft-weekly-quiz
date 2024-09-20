@@ -1,3 +1,5 @@
+package interface_quiz;
+
 public class Product implements Promotion {
 	private String name;
 	private int price;

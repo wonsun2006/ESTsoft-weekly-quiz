@@ -1,3 +1,5 @@
+package interface_quiz;
+
 public class ProductQuiz {
 	public static void main(String[] args) {
 		Product beauty = new Beauty("beauty", 30000, 2);

@@ -1,3 +1,5 @@
+package interface_quiz;
+
 public class Cart {
 	Product[] products;
 
